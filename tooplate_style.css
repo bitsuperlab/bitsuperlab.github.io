@@ -134,13 +134,12 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	padding: 30px 0 0 40px; 
 }
 
-#site_title h1 a { 
+#site_title h1 a img{ 
 	display: block; 
-	width: 183px; 
-	height: 54px; 
+	width: 135px; 
+	height: auto; 
 	color: #fff; 
-	text-indent: -10000px; 
-	background: url(images/tooplate_logo.png) no-repeat top left; 
+	text-indent: 0px; 
 }
 
 /* menu */
